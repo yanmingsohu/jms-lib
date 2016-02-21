@@ -1,0 +1,15 @@
+{
+  "name": "jms-lib",
+  "version": "0.1.10",
+  "description": "java message services client midware",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "yanming",
+  "license": "ISC"
+}
