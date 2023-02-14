@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/yanmingsohu/jms-lib"
   },
   "author": "yanming",
-  "license": "ISC"
+  "license": "MIT"
 }
